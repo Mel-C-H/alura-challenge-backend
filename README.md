@@ -1,12 +1,13 @@
-<em> ## Conversor de Moneda 🌍💰</em>
-Este es un conversor de moneda hecho en Java que permite convertir entre cuatro divisas populares: Dólar (USD), Euro (EUR), Peso Colombiano (COP) y Libra Esterlina (GBP). Usa una API en línea llamada "ExchangeRate" para obtener las tasas de cambio en tiempo real. ¡Es súper fácil de usar y puedes hacer tantas conversiones como quieras!
+<h1>Conversor de Moneda 🌍💰</h1>
+Este es un conversor de moneda hecho en Java que permite convertir entre cuatro divisas populares: Dólar (USD), Euro (EUR), Peso Colombiano (COP) y Libra Esterlina (GBP). Usa una API en 
+línea llamada "ExchangeRate" para obtener las tasas de cambio en tiempo real. ¡Es súper fácil de usar y puedes hacer tantas conversiones como quieras!
 
-##Índice
-*[Índice] (#índice)
-*[Cómo funciona] (#como-funciona)
-*[Requisitos] (#requisitos)
-*[Cómo usarlo] (#como-usarlo)
-*[Ejemplo de uso] (#ejemplo-de-uso)
+## Índice
+* [Índice] (#índice)
+* [Cómo funciona] (#como-funciona)
+* [Requisitos] (#requisitos)
+* [Cómo usarlo] (#como-usarlo)
+* [Ejemplo de uso] (#ejemplo-de-uso)
 
 ## ¿Cómo funciona? 🤔
 - El programa te pedirá que elijas la moneda de origen y la moneda de destino.
